@@ -1,0 +1,33 @@
+.niger-flag {
+    padding: 30%;
+    background-color: white;
+    position: relative;
+
+}
+.niger1 {
+    width: 100%;
+    height: 31%;
+    background-color: #E15307;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.niger2 {
+width: 100%;
+height: 31%;
+background-color: #10AF2A;
+position: absolute;
+bottom: 0;
+left: 0;
+}
+
+.niger3 {
+width: 20%;
+height: 33%;
+position: absolute;
+background-color: #E15307;
+border-radius: 50%;
+top: 33.5%;
+left: 35%;
+}

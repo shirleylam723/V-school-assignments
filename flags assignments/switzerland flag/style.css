@@ -1,0 +1,25 @@
+.switzerland-flag {
+    padding: 30%;
+    background-color: red;
+    position: relative;
+}
+.switzerland-flag:before {
+    content: "";
+    width: 15%;
+    height: 62%;
+background-color: white;
+position: absolute;
+top: 21%;
+left: 41%;
+
+}
+.switzerland-flag:after {
+    content: "";
+    width: 50%;
+    height: 25%;
+background-color: white;
+position: absolute;
+top: 40%;
+left: 23%;
+
+}

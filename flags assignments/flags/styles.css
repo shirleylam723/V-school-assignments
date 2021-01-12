@@ -1,0 +1,29 @@
+body {
+    background-color: #cccccc;
+
+}
+.french-flag {
+    padding: 33.33%;
+    background-color:#FFFFFF;
+    position: relative;
+}
+.french-flag:before {
+    content: "";
+    width: 33.33%;
+    height: 100%;
+    background-color: #002495;
+    position: absolute;
+    top: 0;
+    left: 0;
+
+}
+.french-flag:after {
+    content: "";
+    width: 33.33%;
+    height: 100%;
+    background-color: #ff0000;
+    position: absolute;
+    top: 0;
+    left: 850px;
+    
+}

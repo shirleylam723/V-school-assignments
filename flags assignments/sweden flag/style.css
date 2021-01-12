@@ -1,0 +1,25 @@
+.sweden-flag {
+    padding: 30%;
+    background-color: #0269A6;
+    position: relative;
+}
+.sweden-flag:before {
+    content: "";
+    width: 10%;
+    height: 100%;
+background-color: #FECC00;
+position: absolute;
+top: 0;
+left: 20%;
+
+}
+.sweden-flag:after {
+    content: "";
+    width: 100%;
+    height: 17%;
+background-color: #FECC00;
+position: absolute;
+top: 41%;
+left: 0;
+
+}

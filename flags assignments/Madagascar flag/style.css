@@ -1,0 +1,25 @@
+.madagascar-flag {
+    padding: 30%;
+    background-color: #FFFFFF;
+    position: relative;
+}
+
+.madagascar-flag::before {
+content: "";
+width: 66.66%;
+height: 50%;
+background-color:#FC3E32 ;
+position: absolute;
+top:0;
+right:0;
+}
+.madagascar-flag:after {
+    content: "";
+    width: 66.66%;
+    height: 50%;
+    background-color: #007E39 ;
+    right: 0;
+    position: absolute;
+    bottom: 0;
+       
+}
